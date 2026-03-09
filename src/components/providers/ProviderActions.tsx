@@ -45,7 +45,7 @@ export function ProviderActions({
   appId,
   isCurrent,
   isInConfig = false,
-  isTesting,
+  isTesting = false,
   isProxyTakeover = false,
   isOmo = false,
   onSwitch,
